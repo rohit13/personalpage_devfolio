@@ -3,19 +3,19 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Rohit Sharma',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Rohit Sharma | Back-end Developer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Back-end developer based in Kansas City, Missouri.`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@TheHunterGuy`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/rohit13`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/rohitsharma13/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Experience Software Engineer with extensive practice in backend and frontend software development.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -40,19 +40,19 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Cerner Corporation',
+        description: 'Associate Senior Software Engineer, July 2017 - Present',
+        link: '',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Syracuse University',
+        description: 'Graduate Teaching Assistant, August 2016 - May 2017',
+        link: '',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Amdocs India',
+        description: 'Senior Subject Matter Expert, Oct 2010 - July 2015',
+        link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +60,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Java, J2EE, C++, SQL, XML, HTML, CSS, JavaScript, jQuery. Familiar with C#, Python, Android Programming',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'Servers & Databases',
+        description: 'Oracle BEA WebLogic 9.2, Apache Tomcat, Nginx, Oracle 9i/10g, MySQL',
       },
       {
-        name: 'Other',
+        name: 'Tools and frameworks',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Git, Perforce, Mercurial using Tortoise Client, Eclipse, Visual Studio, MATLAB, Soap UI, Postman REST Client, Apache Maven, Struts, Spring Core, Agile / Scrum',
       },
     ],
   },
